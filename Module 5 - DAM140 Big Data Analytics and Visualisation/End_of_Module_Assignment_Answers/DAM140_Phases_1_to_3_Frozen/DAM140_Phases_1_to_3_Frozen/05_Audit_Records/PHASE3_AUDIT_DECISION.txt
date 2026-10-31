@@ -1,0 +1,24 @@
+PHASE 3 — FINAL AUDIT DECISION
+==============================
+
+Across three audit rounds, Phase 3 was corrected on: research-question
+wording and scope; target-label provenance (initially unresolved, then
+CONFIRMED directly against Abid and Izeboudjen, 2020, p. 367: the class
+designation was constructed using FWI and FFMC); regional model
+comparison (three specifications reported, none selected as definitive);
+Figure C's confidence intervals (removed - daily records are temporally
+dependent, not an independent sample); the dry-spell claim (made fully
+reproducible from code, no hardcoded dates); Cliff's delta magnitude
+labels (corrected using Romano et al., 2006 thresholds, including the
+Bejaia RH medium-vs-large correction); the multiple-testing family
+convention (two separate four-test families, checked against a combined
+eight-test family - no conclusion changes); and the use of Lamri et al.
+(2025) (downgraded from independent validation to "prior analysis of the
+same dataset").
+
+Final verified effect sizes (pooled): Temperature delta=0.607 (large),
+RH delta=-0.494 (large), Ws delta=-0.023 (negligible), Rain delta=-0.725
+(large). Bejaia-subgroup RH delta=-0.451 (medium) - the one documented
+exception to the "large" pattern.
+
+DECISION: PASS. Phase 3 is frozen.

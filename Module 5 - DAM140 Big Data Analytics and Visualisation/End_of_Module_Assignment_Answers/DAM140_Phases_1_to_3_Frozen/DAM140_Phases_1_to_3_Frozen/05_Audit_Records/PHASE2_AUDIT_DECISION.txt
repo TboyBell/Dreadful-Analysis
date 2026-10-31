@@ -1,0 +1,17 @@
+PHASE 2 — FINAL AUDIT DECISION
+==============================
+
+Audit resolution covered: repaired-record language (reframed as "most
+plausible reconstruction," flagged via record_repaired column), outlier-
+retention justification (supported by Van Wagner, 1987), column-name
+derivation (corrected from hardcoded substitution to derive-and-verify
+from the file's own header), encoding (ASCII -> UTF-8), validation
+(printed output -> hard assertions), and file-path portability
+(argparse with defaults).
+
+Final validated state: 244 records, 17 attributes, 0 missing values,
+0 duplicates, 122/122 regional split, 2 class labels, all dates within
+1 June - 30 September 2012, matching the published dataset description
+(Abid and Izeboudjen, 2020).
+
+DECISION: PASS. Phase 2 is frozen.

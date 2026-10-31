@@ -1,0 +1,4 @@
+filename,purpose,phase,status,origin,size_bytes,sha256
+clean_forest_fires.py,Cleaning pipeline script,Phase 2,authoritative/frozen,generated,12743,6774e2cf7f27557d9df0c9e3dfa4095045d54109a572e505a1bc46dec4bf556e
+Algerian_forest_fires_dataset_CLEANED.csv,Cleaned dataset (244 rows x 17 cols),Phase 2,authoritative/frozen,generated,20809,9b24dd2ee6e5678ebb323ceb9b9e8d8f1d351df3974b80ca2ebf49d69a73da6a
+PHASE2_FROZEN_README.md,Documentation for Phase 2 frozen release,Phase 2,authoritative/frozen,generated,n/a,n/a
